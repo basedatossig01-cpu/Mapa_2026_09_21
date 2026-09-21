@@ -4,7 +4,7 @@
     <Schema id="Distrito_NUEVA_TOLEDO.schema">
       <SimpleField name="Cédula" type="double"/>
       <SimpleField name="cedula" type="string"/>
-      <SimpleField name="N_" type="double"/>
+      <SimpleField name="N" type="double"/>
       <SimpleField name="Nombres_y_" type="string"/>
       <SimpleField name="Sexo" type="string"/>
       <SimpleField name="Cambio_de_" type="string"/>
@@ -31,6 +31,7 @@
       <SimpleField name="Estado_del" type="string"/>
       <SimpleField name="Empresa" type="string"/>
       <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Monitorear" type="string"/>
       <SimpleField name="Fecha_de_M" type="string"/>
       <SimpleField name="F__de_pren" type="string"/>
       <SimpleField name="Estado_FAO" type="string"/>
@@ -50,7 +51,7 @@
           <SchemaData schemaUrl="#Distrito_NUEVA_TOLEDO.schema">
             <SimpleData name="Cédula">8069716.00000000000</SimpleData>
             <SimpleData name="cedula">8069716</SimpleData>
-            <SimpleData name="N_">6956.00000000000</SimpleData>
+            <SimpleData name="N">133.00000000000</SimpleData>
             <SimpleData name="Nombres_y_">RAQUEL FERNANDEZ VILLALBA</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -76,6 +77,7 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
             <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Monitorear">Si</SimpleData>
             <SimpleData name="Fecha_de_M">-</SimpleData>
             <SimpleData name="F__de_pren">-</SimpleData>
             <SimpleData name="Estado_FAO">Monitorear</SimpleData>

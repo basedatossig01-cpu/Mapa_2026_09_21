@@ -4,7 +4,7 @@
     <Schema id="Distrito_AZOTEY.schema">
       <SimpleField name="Cédula" type="double"/>
       <SimpleField name="cedula" type="string"/>
-      <SimpleField name="N_" type="double"/>
+      <SimpleField name="N" type="double"/>
       <SimpleField name="Nombres_y_" type="string"/>
       <SimpleField name="Sexo" type="string"/>
       <SimpleField name="Cambio_de_" type="string"/>
@@ -31,6 +31,7 @@
       <SimpleField name="Estado_del" type="string"/>
       <SimpleField name="Empresa" type="string"/>
       <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Monitorear" type="string"/>
       <SimpleField name="Fecha_de_M" type="string"/>
       <SimpleField name="F__de_pren" type="string"/>
       <SimpleField name="Estado_FAO" type="string"/>
@@ -50,7 +51,7 @@
           <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
             <SimpleData name="Cédula">6148845.00000000000</SimpleData>
             <SimpleData name="cedula">6148845</SimpleData>
-            <SimpleData name="N_">8132.00000000000</SimpleData>
+            <SimpleData name="N">33.00000000000</SimpleData>
             <SimpleData name="Nombres_y_">AGUSTINA ORTELLADO GALEANO</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -76,6 +77,7 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
             <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Monitorear">Si</SimpleData>
             <SimpleData name="Fecha_de_M">-</SimpleData>
             <SimpleData name="F__de_pren">-</SimpleData>
             <SimpleData name="Estado_FAO">Monitorear</SimpleData>
@@ -100,7 +102,7 @@
           <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
             <SimpleData name="Cédula">6609953.00000000000</SimpleData>
             <SimpleData name="cedula">6609953</SimpleData>
-            <SimpleData name="N_">8094.00000000000</SimpleData>
+            <SimpleData name="N">32.00000000000</SimpleData>
             <SimpleData name="Nombres_y_">OSVALDA GARCETE ARCE</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -126,6 +128,7 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
             <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Monitorear">Si</SimpleData>
             <SimpleData name="Fecha_de_M">10/9/2026</SimpleData>
             <SimpleData name="F__de_pren">60</SimpleData>
             <SimpleData name="Estado_FAO">Monitorear reposicion</SimpleData>
@@ -149,7 +152,7 @@
           <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
             <SimpleData name="Cédula">5219955.00000000000</SimpleData>
             <SimpleData name="cedula">5219955</SimpleData>
-            <SimpleData name="N_">8058.00000000000</SimpleData>
+            <SimpleData name="N">31.00000000000</SimpleData>
             <SimpleData name="Nombres_y_">SONIA GONZALEZ DE MARTINEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">SI</SimpleData>
@@ -176,6 +179,7 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
             <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Monitorear">Si</SimpleData>
             <SimpleData name="Fecha_de_M">-</SimpleData>
             <SimpleData name="F__de_pren">-</SimpleData>
             <SimpleData name="Estado_FAO">Monitorear</SimpleData>
@@ -207,7 +211,7 @@
           <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
             <SimpleData name="Cédula">4160605.00000000000</SimpleData>
             <SimpleData name="cedula">4160605</SimpleData>
-            <SimpleData name="N_">8135.00000000000</SimpleData>
+            <SimpleData name="N">34.00000000000</SimpleData>
             <SimpleData name="Nombres_y_">CRISTINA MARTINEZ</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -233,6 +237,7 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
             <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Monitorear">Si</SimpleData>
             <SimpleData name="Fecha_de_M">-</SimpleData>
             <SimpleData name="F__de_pren">-</SimpleData>
             <SimpleData name="Estado_FAO">Monitorear</SimpleData>

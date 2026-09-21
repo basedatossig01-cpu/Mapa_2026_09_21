@@ -4,7 +4,7 @@
     <Schema id="Distrito_ARROYITO.schema">
       <SimpleField name="Cédula" type="double"/>
       <SimpleField name="cedula" type="string"/>
-      <SimpleField name="N_" type="double"/>
+      <SimpleField name="N" type="double"/>
       <SimpleField name="Nombres_y_" type="string"/>
       <SimpleField name="Sexo" type="string"/>
       <SimpleField name="Cambio_de_" type="string"/>
@@ -31,6 +31,7 @@
       <SimpleField name="Estado_del" type="string"/>
       <SimpleField name="Empresa" type="string"/>
       <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Monitorear" type="string"/>
       <SimpleField name="Fecha_de_M" type="string"/>
       <SimpleField name="F__de_pren" type="string"/>
       <SimpleField name="Estado_FAO" type="string"/>
@@ -50,7 +51,7 @@
           <SchemaData schemaUrl="#Distrito_ARROYITO.schema">
             <SimpleData name="Cédula">6871573.00000000000</SimpleData>
             <SimpleData name="cedula">6871573</SimpleData>
-            <SimpleData name="N_">10163.00000000000</SimpleData>
+            <SimpleData name="N">30.00000000000</SimpleData>
             <SimpleData name="Nombres_y_">LILIAN ELIZABETH GAYOZO RICARDI</SimpleData>
             <SimpleData name="Sexo">Mujer</SimpleData>
             <SimpleData name="Cambio_de_">NO</SimpleData>
@@ -75,6 +76,7 @@
             <SimpleData name="Estado_del">Activo</SimpleData>
             <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
             <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Monitorear">No</SimpleData>
             <SimpleData name="Fecha_de_M">2/9/2026</SimpleData>
             <SimpleData name="F__de_pren">90</SimpleData>
             <SimpleData name="Estado_FAO">Volver a reportar</SimpleData>
