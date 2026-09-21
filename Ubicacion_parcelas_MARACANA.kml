@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_MARACANA.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="N_" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="string"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo_imp" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Superficie" type="double"/>
+      <SimpleField name="Situaci_1" type="string"/>
+      <SimpleField name="Plantado" type="string"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_Impl" type="string"/>
+      <SimpleField name="Grupo_de_P" type="string"/>
+      <SimpleField name="Jornales" type="double"/>
+      <SimpleField name="Monto" type="double"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Fecha_de_M" type="string"/>
+      <SimpleField name="F__de_pren" type="string"/>
+      <SimpleField name="Estado_FAO" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Fecha_visi" type="string"/>
+      <SimpleField name="Cumple_sup" type="string"/>
+      <SimpleField name="Estado_mon" type="string"/>
+      <SimpleField name="Situaci_12" type="string"/>
+      <SimpleField name="Observaci" type="string"/>
+      <SimpleField name="Dias_trans" type="double"/>
+      <SimpleField name="Prioridad" type="string"/>
+    </Schema>
+    <Document id="Distrito_MARACANA">
+      <name>Distrito_MARACANA</name>
+      <Placemark id="Distrito_MARACANA.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_MARACANA.schema">
+            <SimpleData name="Cédula">3782611.00000000000</SimpleData>
+            <SimpleData name="cedula">3782611</SimpleData>
+            <SimpleData name="N_">10139.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">OSCAR DE LA CRUZ SILVA PEREIRA</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">MARACANA</SimpleData>
+            <SimpleData name="Localidad">4TO ENCUADRE</SimpleData>
+            <SimpleData name="Teléfono">985381153</SimpleData>
+            <SimpleData name="Vivienda_L">-24.12481000000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.99376000000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.12505812000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.99547505000</SimpleData>
+            <SimpleData name="Grupo_Impl">G4</SimpleData>
+            <SimpleData name="Grupo_de_P">H1-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/17</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">3.52444444445</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.9954750482292,-24.1250581195168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_MARACANA.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_MARACANA.schema">
+            <SimpleData name="Cédula">3543568.00000000000</SimpleData>
+            <SimpleData name="cedula">3543568</SimpleData>
+            <SimpleData name="N_">10105.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FERMINA  RAMIREZ DE VELAZQUEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">MARACANA</SimpleData>
+            <SimpleData name="Localidad">5TO ENCUADRE 2DA LINEA</SimpleData>
+            <SimpleData name="Teléfono">986407170</SimpleData>
+            <SimpleData name="Vivienda_L">-24.15956000000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.01100830000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Parametro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.15896888000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.01051787000</SimpleData>
+            <SimpleData name="Grupo_Impl">G4</SimpleData>
+            <SimpleData name="Grupo_de_P">H1-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/15</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">5.23737268519</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.0105178745482,-24.1589688773778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_MARACANA.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_MARACANA.schema">
+            <SimpleData name="Cédula">7857307.00000000000</SimpleData>
+            <SimpleData name="cedula">7857307</SimpleData>
+            <SimpleData name="N_">10131.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LIZ MABEL GOMEZ ARGUELLO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">MARACANA</SimpleData>
+            <SimpleData name="Localidad">7MO ENCUADRE CENTRO</SimpleData>
+            <SimpleData name="Teléfono">972515717</SimpleData>
+            <SimpleData name="Vivienda_L">-24.10698830000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.07132000000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Parametro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.08770644000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.04833482000</SimpleData>
+            <SimpleData name="Grupo_Impl">G4</SimpleData>
+            <SimpleData name="Grupo_de_P">H1-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/15</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">5.31967592592</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.048334822023,-24.0877064374813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_MARACANA.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_MARACANA.schema">
+            <SimpleData name="Cédula">5550801.00000000000</SimpleData>
+            <SimpleData name="cedula">5550801</SimpleData>
+            <SimpleData name="N_">10104.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">SANDRA ELIZABETH URBIETA CARDOZO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">MARACANA</SimpleData>
+            <SimpleData name="Localidad">5TO ENCUADRE 2DA LINEA</SimpleData>
+            <SimpleData name="Teléfono">981566680</SimpleData>
+            <SimpleData name="Vivienda_L">-24.14992330000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.01118670000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Parametro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.14987335000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.00888350000</SimpleData>
+            <SimpleData name="Grupo_Impl">G4</SimpleData>
+            <SimpleData name="Grupo_de_P">H1-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/15</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">5.23741898148</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.0088835041885,-24.1498733528799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_MARACANA.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_MARACANA.schema">
+            <SimpleData name="Cédula">4403149.00000000000</SimpleData>
+            <SimpleData name="cedula">4403149</SimpleData>
+            <SimpleData name="N_">10119.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">JUANA MARIBEL IBARRA RAMIREZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">MARACANA</SimpleData>
+            <SimpleData name="Localidad">3ER ENCUADRE SAN FRANCISCO</SimpleData>
+            <SimpleData name="Teléfono">983666011</SimpleData>
+            <SimpleData name="Vivienda_L">-24.19110170000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.04652500000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Parametro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.19163095000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.04615007000</SimpleData>
+            <SimpleData name="Grupo_Impl">G4</SimpleData>
+            <SimpleData name="Grupo_de_P">H1-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/15</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">5.97548611111</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.0461500746785,-24.1916309487255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_MARACANA.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_MARACANA.schema">
+            <SimpleData name="Cédula">1473741.00000000000</SimpleData>
+            <SimpleData name="cedula">1473741</SimpleData>
+            <SimpleData name="N_">10118.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">OLIMPIO RAMON CHAPARRO OTAZU</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">MARACANA</SimpleData>
+            <SimpleData name="Localidad">5TO ENCUADRE CENTRO</SimpleData>
+            <SimpleData name="Teléfono">985311661</SimpleData>
+            <SimpleData name="Vivienda_L">-24.14412330000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.02504170000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Parametro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.14235466000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.03086333000</SimpleData>
+            <SimpleData name="Grupo_Impl">G4</SimpleData>
+            <SimpleData name="Grupo_de_P">H1-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/14</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">6.29299768519</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.0305936276908,-24.1424519500647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_MARACANA.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_MARACANA.schema">
+            <SimpleData name="Cédula">6915820.00000000000</SimpleData>
+            <SimpleData name="cedula">6915820</SimpleData>
+            <SimpleData name="N_">10130.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FANY  TOLEDO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">MARACANA</SimpleData>
+            <SimpleData name="Localidad">7MO ENCUADRE 1RA LINEA</SimpleData>
+            <SimpleData name="Teléfono">975244205</SimpleData>
+            <SimpleData name="Vivienda_L">-24.09632170000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.08080670000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.09663820000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.07785475000</SimpleData>
+            <SimpleData name="Grupo_Impl">G4</SimpleData>
+            <SimpleData name="Grupo_de_P">H1-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/15</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">5.31949074074</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.0778547471152,-24.0966381967528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_MARACANA.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_MARACANA.schema">
+            <SimpleData name="Cédula">5584350.00000000000</SimpleData>
+            <SimpleData name="cedula">5584350</SimpleData>
+            <SimpleData name="N_">10149.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NINFA RAQUEL VILLASANTI QUI ONEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">MARACANA</SimpleData>
+            <SimpleData name="Localidad">3ER ENCUADRE CENTRO</SimpleData>
+            <SimpleData name="Teléfono">973361223</SimpleData>
+            <SimpleData name="Vivienda_L">-24.17975330000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.02982500000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Parametro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.17780749000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.02529930000</SimpleData>
+            <SimpleData name="Grupo_Impl">G4</SimpleData>
+            <SimpleData name="Grupo_de_P">H1-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/14</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">6.29162037037</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.0252992993666,-24.1778074936354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_MARACANA.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_MARACANA.schema">
+            <SimpleData name="Cédula">5810478.00000000000</SimpleData>
+            <SimpleData name="cedula">5810478</SimpleData>
+            <SimpleData name="N_">10120.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LIZ MARIELA BARRETO LEZCANO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">MARACANA</SimpleData>
+            <SimpleData name="Localidad">5TO ENCUADRE 1RA LINEA</SimpleData>
+            <SimpleData name="Teléfono">971849811</SimpleData>
+            <SimpleData name="Vivienda_L">-24.11634170000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.03942500000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Parametro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.11221378000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.03228080000</SimpleData>
+            <SimpleData name="Grupo_Impl">G4</SimpleData>
+            <SimpleData name="Grupo_de_P">H1-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/15</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">5.97579861111</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.0322808024568,-24.1122137847089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_MARACANA.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_MARACANA.schema">
+            <SimpleData name="Cédula">6160386.00000000000</SimpleData>
+            <SimpleData name="cedula">6160386</SimpleData>
+            <SimpleData name="N_">10113.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LOURDES MARIA BENITEZ LOPEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">MARACANA</SimpleData>
+            <SimpleData name="Localidad">5TO ENCUADRE CENTRO</SimpleData>
+            <SimpleData name="Teléfono">976653948</SimpleData>
+            <SimpleData name="Vivienda_L">-24.14458000000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.02547000000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Parametro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.14868439000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.02844290000</SimpleData>
+            <SimpleData name="Grupo_Impl">G4</SimpleData>
+            <SimpleData name="Grupo_de_P">H1-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/12</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">8.44146990740</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.0284428965511,-24.1486843895146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_MARACANA.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_MARACANA.schema">
+            <SimpleData name="Cédula">5997280.00000000000</SimpleData>
+            <SimpleData name="cedula">5997280</SimpleData>
+            <SimpleData name="N_">10114.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ESTANISLAA  SEGOVIA TROCHE</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">MARACANA</SimpleData>
+            <SimpleData name="Localidad">5TO ENCUADRE 1RA LINEA</SimpleData>
+            <SimpleData name="Teléfono">983845479</SimpleData>
+            <SimpleData name="Vivienda_L">-24.14809170000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.03944170000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.14819517000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.04119201000</SimpleData>
+            <SimpleData name="Grupo_Impl">G4</SimpleData>
+            <SimpleData name="Grupo_de_P">H1-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/16</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">4.53428240741</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.0411920072209,-24.1481951669986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -1,0 +1,1216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_ALTO_VERA.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="N_" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="string"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo_imp" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Superficie" type="double"/>
+      <SimpleField name="Situaci_1" type="string"/>
+      <SimpleField name="Plantado" type="string"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_Impl" type="string"/>
+      <SimpleField name="Grupo_de_P" type="string"/>
+      <SimpleField name="Jornales" type="double"/>
+      <SimpleField name="Monto" type="double"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Fecha_de_M" type="string"/>
+      <SimpleField name="F__de_pren" type="string"/>
+      <SimpleField name="Estado_FAO" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Fecha_visi" type="string"/>
+      <SimpleField name="Cumple_sup" type="string"/>
+      <SimpleField name="Estado_mon" type="string"/>
+      <SimpleField name="Situaci_12" type="string"/>
+      <SimpleField name="Observaci" type="string"/>
+      <SimpleField name="Dias_trans" type="double"/>
+      <SimpleField name="Prioridad" type="string"/>
+    </Schema>
+    <Document id="Distrito_ALTO_VERA">
+      <name>Distrito_ALTO VERA</name>
+      <Placemark id="Distrito_ALTO_VERA.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ALTO_VERA.schema">
+            <SimpleData name="Cédula">6607303.00000000000</SimpleData>
+            <SimpleData name="cedula">6607303</SimpleData>
+            <SimpleData name="N_">9851.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LIZ ROSMARI DIAZ BENITEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">ITAPUA</SimpleData>
+            <SimpleData name="Distrito">ALTO VERA</SimpleData>
+            <SimpleData name="Localidad">TARUMA</SimpleData>
+            <SimpleData name="Teléfono">982767714</SimpleData>
+            <SimpleData name="Vivienda_L">-26.73187670000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.81995830000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Parametro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-26.68692730000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.83105111000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">A-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/04</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">16.51413194440</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.8303850000068,-26.6869951999126,0
+                  -55.8307596997499,-26.6874479997785,0
+                  -55.83155729982,-26.6869523999233,0
+                  -55.831210200087,-26.6865261996665,0
+                  -55.8303850000068,-26.6869951999126,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.8311857997546,-26.6864301996206,0
+                  -55.8316030996388,-26.6869372000935,0
+                  -55.8317516997432,-26.686865299691,0
+                  -55.8312308997267,-26.6862889001185,0
+                  -55.8311857997546,-26.6864301996206,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_ALTO_VERA.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ALTO_VERA.schema">
+            <SimpleData name="Cédula">6655884.00000000000</SimpleData>
+            <SimpleData name="cedula">6655884</SimpleData>
+            <SimpleData name="N_">3188.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIELA BAREIRO CACERES</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">ITAPUA</SimpleData>
+            <SimpleData name="Distrito">ALTO VERA</SimpleData>
+            <SimpleData name="Localidad">TARUMA</SimpleData>
+            <SimpleData name="Teléfono">0985474127</SimpleData>
+            <SimpleData name="Vivienda_L">-26.73284780000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.82694180000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-26.73221058000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.82866767000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">A-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/07</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">13.09770833330</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.8261367001081,-26.7375833001509,0
+                  -55.8263132002724,-26.7376751996506,0
+                  -55.8268116003716,-26.7369646001924,0
+                  -55.8265987998195,-26.7369649999898,0
+                  -55.8261367001081,-26.7375833001509,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.8281485003541,-26.7320438000829,0
+                  -55.8288300999105,-26.7327428998924,0
+                  -55.8292306002851,-26.7322665996432,0
+                  -55.8283200000079,-26.7316999999292,0
+                  -55.8281485003541,-26.7320438000829,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_ALTO_VERA.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ALTO_VERA.schema">
+            <SimpleData name="Cédula">5129578.00000000000</SimpleData>
+            <SimpleData name="cedula">5129578</SimpleData>
+            <SimpleData name="N_">3232.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FRANCISCO JAVIER ORUE ACOSTA</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">ITAPUA</SimpleData>
+            <SimpleData name="Distrito">ALTO VERA</SimpleData>
+            <SimpleData name="Localidad">SAN ROQUE GONZALEZ</SimpleData>
+            <SimpleData name="Teléfono">0982530636</SimpleData>
+            <SimpleData name="Vivienda_L">-26.69229400000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.84920350000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-26.69010755000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.83693910000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">A-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/07</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">13.47950231480</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.8370889002234,-26.6905486001057,0
+                -55.8373264998679,-26.6905894000602,0
+                -55.837532800333,-26.6902034999912,0
+                -55.8372424000188,-26.6898399999899,0
+                -55.8362217000851,-26.6896683001459,0
+                -55.8365584998941,-26.6902399001651,0
+                -55.8370889002234,-26.6905486001057,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_ALTO_VERA.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ALTO_VERA.schema">
+            <SimpleData name="Cédula">1448656.00000000000</SimpleData>
+            <SimpleData name="cedula">1448656</SimpleData>
+            <SimpleData name="N_">9837.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ANASTASIO FERNANDEZ BOGADO</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">ITAPUA</SimpleData>
+            <SimpleData name="Distrito">ALTO VERA</SimpleData>
+            <SimpleData name="Localidad">SAN ROQUE GONZALEZ</SimpleData>
+            <SimpleData name="Teléfono">0982166484</SimpleData>
+            <SimpleData name="Vivienda_L">-26.69484160000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.84156030000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Parametro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-26.69489779000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.84350365000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">A-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/04</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">16.09994212960</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.842975899491,-26.6940991998318,0
+                -55.8431627994111,-26.694761399376,0
+                -55.842927799757,-26.695081699274,0
+                -55.8431311999297,-26.6953047998909,0
+                -55.8436210999402,-26.6949683993518,0
+                -55.8441480992118,-26.6955970997295,0
+                -55.8443342998409,-26.695447499669,0
+                -55.8436457996746,-26.6946143997548,0
+                -55.8435412997793,-26.6946606993939,0
+                -55.8430456994752,-26.6940567995483,0
+                -55.842975899491,-26.6940991998318,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_ALTO_VERA.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ALTO_VERA.schema">
+            <SimpleData name="Cédula">6373818.00000000000</SimpleData>
+            <SimpleData name="cedula">6373818</SimpleData>
+            <SimpleData name="N_">3203.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">DAMIANA ULIAMBRE ORTIZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">ITAPUA</SimpleData>
+            <SimpleData name="Distrito">ALTO VERA</SimpleData>
+            <SimpleData name="Localidad">TARUMA</SimpleData>
+            <SimpleData name="Teléfono">0981943205</SimpleData>
+            <SimpleData name="Vivienda_L">-26.73179300000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.82797810000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-26.72940545000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.83201902000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">A-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/09</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">11.95694444440</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.8317548998958,-26.7296473001431,0
+                -55.832240699298,-26.7299216997444,0
+                -55.8326055992493,-26.7293234995259,0
+                -55.83193119967,-26.728956399802,0
+                -55.8317866994512,-26.7289701995986,0
+                -55.8313963997131,-26.72940640003,0
+                -55.8317548998958,-26.7296473001431,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_ALTO_VERA.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ALTO_VERA.schema">
+            <SimpleData name="Cédula">6376706.00000000000</SimpleData>
+            <SimpleData name="cedula">6376706</SimpleData>
+            <SimpleData name="N_">3237.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIELA CUELLA LUJAN</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">ITAPUA</SimpleData>
+            <SimpleData name="Distrito">ALTO VERA</SimpleData>
+            <SimpleData name="Localidad">PONCHO</SimpleData>
+            <SimpleData name="Teléfono">0984255819</SimpleData>
+            <SimpleData name="Vivienda_L">-26.69789830000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.73989000000</SimpleData>
+            <SimpleData name="Superficie">0.90000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-26.68670076000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.75498782000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">A-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/09</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">11.08670138890</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.7542886990809,-26.6866912997627,0
+                -55.755053299303,-26.6873832999907,0
+                -55.7557283004167,-26.6865566994054,0
+                -55.7547951487464,-26.6861049338135,0
+                -55.7542886990809,-26.6866912997627,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_ALTO_VERA.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ALTO_VERA.schema">
+            <SimpleData name="Cédula">6116567.00000000000</SimpleData>
+            <SimpleData name="cedula">6116567</SimpleData>
+            <SimpleData name="N_">3186.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">EMILCE CABRAL BARRIOS</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">ITAPUA</SimpleData>
+            <SimpleData name="Distrito">ALTO VERA</SimpleData>
+            <SimpleData name="Localidad">TARUMA</SimpleData>
+            <SimpleData name="Teléfono">0983521023</SimpleData>
+            <SimpleData name="Vivienda_L">-26.71576230000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.85559250000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-26.71886725000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.85824280000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">A-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/09</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">11.95684027780</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.8579106990616,-26.71913749985,0
+                -55.8582030002303,-26.7194737999593,0
+                -55.8583547996376,-26.7194734000723,0
+                -55.8587590988742,-26.7189353003619,0
+                -55.8581031991574,-26.7181985997339,0
+                -55.8577716995186,-26.7185232995058,0
+                -55.8580177992914,-26.7188899002488,0
+                -55.8579106990616,-26.71913749985,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_ALTO_VERA.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ALTO_VERA.schema">
+            <SimpleData name="Cédula">6205273.00000000000</SimpleData>
+            <SimpleData name="cedula">6205273</SimpleData>
+            <SimpleData name="N_">3201.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">SONIA LOPEZ MARECO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">ITAPUA</SimpleData>
+            <SimpleData name="Distrito">ALTO VERA</SimpleData>
+            <SimpleData name="Localidad">TARUMA</SimpleData>
+            <SimpleData name="Teléfono">0984257396</SimpleData>
+            <SimpleData name="Vivienda_L">-26.71786130000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.84301370000</SimpleData>
+            <SimpleData name="Superficie">0.90000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-26.72963687000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.83289278000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">A-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/07</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">13.09769675930</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.8335426390194,-26.7293682295703,0
+                -55.8328477987529,-26.7290150999891,0
+                -55.832765302275,-26.7291446961896,0
+                -55.8322427987338,-26.7299655001306,0
+                -55.8329024000476,-26.7302370003444,0
+                -55.8333392000347,-26.7296608994588,0
+                -55.8335718990234,-26.7293830997658,0
+                -55.8335426390194,-26.7293682295703,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_ALTO_VERA.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ALTO_VERA.schema">
+            <SimpleData name="Cédula">4162259.00000000000</SimpleData>
+            <SimpleData name="cedula">4162259</SimpleData>
+            <SimpleData name="N_">3221.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ANTONIA ESTER MU?OZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">ITAPUA</SimpleData>
+            <SimpleData name="Distrito">ALTO VERA</SimpleData>
+            <SimpleData name="Localidad">TARUMA</SimpleData>
+            <SimpleData name="Teléfono">0985194058</SimpleData>
+            <SimpleData name="Vivienda_L">-26.71681490000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.82825600000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-26.70076119000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.83660508000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">A-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/07</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">13.47952546300</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.8360167000884,-26.7008899999653,0
+                -55.8367655003985,-26.7012533001155,0
+                -55.8372267003596,-26.7006650000657,0
+                -55.8363983003897,-26.7002583002855,0
+                -55.8360167000884,-26.7008899999653,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_ALTO_VERA.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ALTO_VERA.schema">
+            <SimpleData name="Cédula">4760845.00000000000</SimpleData>
+            <SimpleData name="cedula">4760845</SimpleData>
+            <SimpleData name="N_">3187.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">EVER VENIALGO LEDEZMA</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">ITAPUA</SimpleData>
+            <SimpleData name="Distrito">ALTO VERA</SimpleData>
+            <SimpleData name="Localidad">TARUMA</SimpleData>
+            <SimpleData name="Teléfono">0984988863</SimpleData>
+            <SimpleData name="Vivienda_L">-26.71943290000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.83240590000</SimpleData>
+            <SimpleData name="Superficie">0.90000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-26.73983859000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.83725107000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">A-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/09</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">11.95688657410</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.8364243997832,-26.7399329007576,0
+                -55.8378782993701,-26.7403117007768,0
+                -55.8381092995572,-26.7398898009578,0
+                -55.836788299307,-26.7392881000037,0
+                -55.8364243997832,-26.7399329007576,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_ALTO_VERA.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ALTO_VERA.schema">
+            <SimpleData name="Cédula">5395092.00000000000</SimpleData>
+            <SimpleData name="cedula">5395092</SimpleData>
+            <SimpleData name="N_">3230.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">OLGA BARRETO VERA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">ITAPUA</SimpleData>
+            <SimpleData name="Distrito">ALTO VERA</SimpleData>
+            <SimpleData name="Localidad">TARUMA</SimpleData>
+            <SimpleData name="Teléfono">0984680573</SimpleData>
+            <SimpleData name="Vivienda_L">-26.71728490000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.82876410000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-26.73938237000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.83462771000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">A-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/09</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">11.95697916670</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.834037899472,-26.7395239004117,0
+                -55.8347876999424,-26.739883000127,0
+                -55.8352614999829,-26.7393132004385,0
+                -55.8344199989575,-26.7388500001173,0
+                -55.834037899472,-26.7395239004117,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_ALTO_VERA.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ALTO_VERA.schema">
+            <SimpleData name="Cédula">2668268.00000000000</SimpleData>
+            <SimpleData name="cedula">2668268</SimpleData>
+            <SimpleData name="N_">9836.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CARMEN SANCHEZ DE DIAZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">ITAPUA</SimpleData>
+            <SimpleData name="Distrito">ALTO VERA</SimpleData>
+            <SimpleData name="Localidad">SAN ROQUE GONZALEZ</SimpleData>
+            <SimpleData name="Teléfono">0985430027</SimpleData>
+            <SimpleData name="Vivienda_L">-26.69594050000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.84108450000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Parametro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-26.68734801000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.83007891000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">A-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/04</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">16.51416666670</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.8300387389534,-26.6878746107676,0
+                -55.8300649994694,-26.6878550001405,0
+                -55.8300673454842,-26.6878579246359,0
+                -55.8305736890716,-26.6875625690662,0
+                -55.8307232997111,-26.6874753000395,0
+                -55.8307221772873,-26.6874739032142,0
+                -55.8303551003456,-26.6870169996813,0
+                -55.8302084997989,-26.6870850998904,0
+                -55.8299830003006,-26.6868341000954,0
+                -55.8294504999072,-26.6871755996994,0
+                -55.8300330993413,-26.6878779000964,0
+                -55.8300387389534,-26.6878746107676,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_ALTO_VERA.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ALTO_VERA.schema">
+            <SimpleData name="Cédula">4162216.00000000000</SimpleData>
+            <SimpleData name="cedula">4162216</SimpleData>
+            <SimpleData name="N_">9833.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ESTELVINA RAQUEL BENITEZ MOREL</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">ITAPUA</SimpleData>
+            <SimpleData name="Distrito">ALTO VERA</SimpleData>
+            <SimpleData name="Localidad">SAN ROQUE GONZALEZ</SimpleData>
+            <SimpleData name="Teléfono">0983562247</SimpleData>
+            <SimpleData name="Vivienda_L">-26.70023730000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.83946800000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Parametro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-26.68847456000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.83020552000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">A-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/04</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">16.51417824070</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.8300387389534,-26.6878746107676,0
+                -55.8296076995822,-26.6881965004365,0
+                -55.8303882992261,-26.6891100005057,0
+                -55.8307840008055,-26.6887515995779,0
+                -55.8300673454842,-26.6878579246359,0
+                -55.8300649994694,-26.6878550001405,0
+                -55.8300387389534,-26.6878746107676,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_ALTO_VERA.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ALTO_VERA.schema">
+            <SimpleData name="Cédula">4162225.00000000000</SimpleData>
+            <SimpleData name="cedula">4162225</SimpleData>
+            <SimpleData name="N_">3199.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">GRACIELA SERVIN AMARILLA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">ITAPUA</SimpleData>
+            <SimpleData name="Distrito">ALTO VERA</SimpleData>
+            <SimpleData name="Localidad">TARUMA</SimpleData>
+            <SimpleData name="Teléfono">0985998685</SimpleData>
+            <SimpleData name="Vivienda_L">-26.73342330000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.82842230000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-26.73766989000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.82656889000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">A-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/07</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">13.09774305560</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.8268354965254,-26.7369322138437,0
+                -55.826315599609,-26.7376880001575,0
+                -55.8262541999605,-26.7376603002721,0
+                -55.8259282999422,-26.738231699843,0
+                -55.8262504005529,-26.7383470998296,0
+                -55.8264843002219,-26.7382277002021,0
+                -55.8272133000329,-26.7370716999306,0
+                -55.8268354965254,-26.7369322138437,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_ALTO_VERA.15">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ALTO_VERA.schema">
+            <SimpleData name="Cédula">5141211.00000000000</SimpleData>
+            <SimpleData name="cedula">5141211</SimpleData>
+            <SimpleData name="N_">3235.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MIRNA ESTELA CHAMORRO SANCHEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">ITAPUA</SimpleData>
+            <SimpleData name="Distrito">ALTO VERA</SimpleData>
+            <SimpleData name="Localidad">PONCHO</SimpleData>
+            <SimpleData name="Teléfono">0984789295</SimpleData>
+            <SimpleData name="Vivienda_L">-26.67665960000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.75291260000</SimpleData>
+            <SimpleData name="Superficie">0.90000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-26.67592119000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.75401354000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">A-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/11</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">9.20084490741</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.7533743003619,-26.6761174995492,0
+                -55.7541709996426,-26.6765232001118,0
+                -55.7546324998708,-26.6757987999902,0
+                -55.7545280001861,-26.6756534003672,0
+                -55.753838100073,-26.6753195995368,0
+                -55.7533743003619,-26.6761174995492,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_ALTO_VERA.16">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ALTO_VERA.schema">
+            <SimpleData name="Cédula">5887042.00000000000</SimpleData>
+            <SimpleData name="cedula">5887042</SimpleData>
+            <SimpleData name="N_">3216.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ESTELA LUJAN DE OCAMPO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">ITAPUA</SimpleData>
+            <SimpleData name="Distrito">ALTO VERA</SimpleData>
+            <SimpleData name="Localidad">PONCHO</SimpleData>
+            <SimpleData name="Teléfono">0984271148</SimpleData>
+            <SimpleData name="Vivienda_L">-26.68015430000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.75746870000</SimpleData>
+            <SimpleData name="Superficie">0.90000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-26.68468232000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.75503609000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">A-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/09</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">11.08667824070</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.7545963998824,-26.6853157998577,0
+                -55.7550180997628,-26.6854623007421,0
+                -55.7556283000394,-26.6843999996525,0
+                -55.7548082996885,-26.6839844999412,0
+                -55.7545477999829,-26.6842062004214,0
+                -55.7545214999901,-26.6843078006003,0
+                -55.7549166998159,-26.6844999996021,0
+                -55.7545963998824,-26.6853157998577,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_ALTO_VERA.17">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ALTO_VERA.schema">
+            <SimpleData name="Cédula">6106928.00000000000</SimpleData>
+            <SimpleData name="cedula">6106928</SimpleData>
+            <SimpleData name="N_">3226.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MONICA ANTONIA AVALOS ARGUELLO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">ITAPUA</SimpleData>
+            <SimpleData name="Distrito">ALTO VERA</SimpleData>
+            <SimpleData name="Localidad">TARUMA</SimpleData>
+            <SimpleData name="Teléfono">0983994759</SimpleData>
+            <SimpleData name="Vivienda_L">-26.70805680000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.83776440000</SimpleData>
+            <SimpleData name="Superficie">0.90000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-26.68750698000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.83127236000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">A-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/04</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">16.05800925930</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.8307221772873,-26.6874739032142,0
+                -55.8307232997111,-26.6874753000395,0
+                -55.8305736890716,-26.6875625690662,0
+                -55.83094689971,-26.6880210004243,0
+                -55.8319776998771,-26.687478899771,0
+                -55.8315600000079,-26.6869816995145,0
+                -55.8307221772873,-26.6874739032142,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_ALTO_VERA.18">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ALTO_VERA.schema">
+            <SimpleData name="Cédula">3310559.00000000000</SimpleData>
+            <SimpleData name="cedula">3310559</SimpleData>
+            <SimpleData name="N_">3200.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ANA MARIA DOMINGUEZ DE MOLINAS</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">ITAPUA</SimpleData>
+            <SimpleData name="Distrito">ALTO VERA</SimpleData>
+            <SimpleData name="Localidad">TARUMA</SimpleData>
+            <SimpleData name="Teléfono">0983714092</SimpleData>
+            <SimpleData name="Vivienda_L">-26.73234120000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.82490710000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-26.73654288000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.82254295000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">A-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/09</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">11.95702546300</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.8217850001854,-26.7368033003954,0
+                -55.8228756000948,-26.7369208997473,0
+                -55.8231732000804,-26.7361834997368,0
+                -55.822336299422,-26.7361865996877,0
+                -55.8217850001854,-26.7368033003954,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_ALTO_VERA.19">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ALTO_VERA.schema">
+            <SimpleData name="Cédula">4077894.00000000000</SimpleData>
+            <SimpleData name="cedula">4077894</SimpleData>
+            <SimpleData name="N_">3197.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIA ESTELA ARCE</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">ITAPUA</SimpleData>
+            <SimpleData name="Distrito">ALTO VERA</SimpleData>
+            <SimpleData name="Localidad">TARUMA</SimpleData>
+            <SimpleData name="Teléfono">0985684269</SimpleData>
+            <SimpleData name="Vivienda_L">-26.71776720000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.84357110000</SimpleData>
+            <SimpleData name="Superficie">0.90000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-26.72874261000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.83348851000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">A-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/07</SimpleData>
+            <SimpleData name="Cumple_sup">Si</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Situaci_12">-</SimpleData>
+            <SimpleData name="Observaci">-</SimpleData>
+            <SimpleData name="Dias_trans">13.09767361110</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.8328477987529,-26.7290150999891,0
+                -55.8335426390194,-26.7293682295703,0
+                -55.8341213969177,-26.7284630745968,0
+                -55.8334489120923,-26.7281159230953,0
+                -55.8328477987529,-26.7290150999891,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>
